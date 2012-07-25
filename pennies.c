@@ -30,7 +30,7 @@ main(void)
     while (pennies <= 0);
 
 
-
+// total sum of pennies
 long long total = 0;
 for (int i = 0; i < days; i++)
 {
